@@ -1,4 +1,4 @@
-# GetCleanDataProj
+# Coursera Getting and Cleaning Data Final Project
 Coursera Getting and Cleaning Data Final Project Submission
 
 Before running any code, download and unzip the data from: 
